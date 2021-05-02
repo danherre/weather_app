@@ -1,3 +1,5 @@
+I created this project as part of an online React course
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
